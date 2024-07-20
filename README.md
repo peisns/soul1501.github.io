@@ -1,19 +1,47 @@
 
 
 # TOC
+
+- [Python](#python)
+- [kaggle](#kaggle)
 - [etc](#etc)
-    * [Error Log and Solutions of etc.](#error-log-and-solutions-of-etc)
-        + [Git](#git)
 
 # Python
 
-- [python + 가상환경 + 다양한 라이브러리 + 협업 + 깃 조건에서 의존성 관리를 어떻게 해야할까?](python/how_to_manage_dependencies_under_python_venv_collaboration_git.md)
+### TOC
+
+- [Knowledge Repository of Python](#knowledge-repository-of-python)
+
+## Knowledge Repository of Python
+- [Unpacking Sequence 시퀀스 언패킹과 Starred Expression](python/packing_and_unpacking.md)
+
+<br>
+
+<!-- - [python + 가상환경 + 다양한 라이브러리 + 협업 + 깃 조건에서 의존성 관리를 어떻게 해야할까?](python/how_to_manage_dependencies_under_python_venv_collaboration_git.md) -->
+<!-- - Endpoint를 효율적으로 관리하는 몇 가지 방법 -->
+<!-- - Python의 데코레이터들, @classmethod, @unique? -->
+<!-- - Python은 콘솔에 언제, 왜 출력할까? -->
+<!-- - Python의 에러핸들링 -->
+<!-- - python의 중첩, 콜백에서 벗어나기 -->
 
 <!-- # Swift -->
 
+# kaggle
+- [Predict Customer Purchase Behavior Dataset](kaggle/customerPurchaseBehavior/README.md)
+
+<br>
+
 # etc.
+
+### TOC
+
+- [Error Log and Solutions of etc.](#error-log-and-solutions-of-etc)
+    - [Git](#git)
+
+
 
 ## Error Log and Solutions of etc.
 
 ### Git
-1. [Committer identity unknown](etc/git/committer_identity_unknown.md)
+
+1. [Committer identity unknown, Please tell me who you are.](etc/git/committer_identity_unknown.md)

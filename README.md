@@ -2,13 +2,13 @@
 
 # TOC
 
-- [Swift](#swift)
+- [Swift | Xcode](#swift--xcode)
 - [Python](#python)
 - [kaggle](#kaggle)
 - [etc](#etc)
 
 
-# Swift
+# Swift | Xcode
 
 ### TOC
 
@@ -17,6 +17,7 @@
 
 ## Knowledge Repository of Swift
 - [for in 반복문과 고차함수(forEach, map, filter, reduce, compactMap)의 성능 비교](swift/performance_between_for_in_loop_and_high_order_function.md)
+- [iOS, macOS 등 버전 설정(Xcode)](swift/set-versions-in-xcode.md)
 
 
 
@@ -28,6 +29,7 @@
 
 ## Knowledge Repository of Python
 - [Unpacking Sequence 시퀀스 언패킹과 Starred Expression](python/packing_and_unpacking.md)
+- [NLTK Natural Language Toolkit, 자연어 처리](python/nltk.md)
 
 <br>
 

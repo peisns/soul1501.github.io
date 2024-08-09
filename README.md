@@ -7,6 +7,8 @@
 - [kaggle](#kaggle)
 - [etc](#etc)
 
+<br>
+<br>
 
 # Swift | Xcode
 
@@ -51,10 +53,17 @@
 
 ### TOC
 
+
+- [Algorithm](#algorithm)
 - [Error Log and Solutions of etc.](#error-log-and-solutions-of-etc)
     - [Git](#git)
 
 
+## Algorithm
+
+1. [BackTracking](etc/algorithm/backtracking.md)
+
+<br>
 
 ## Error Log and Solutions of etc.
 

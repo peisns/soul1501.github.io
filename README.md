@@ -32,8 +32,7 @@
 ## Knowledge Repository of Python
 - [Unpacking Sequence 시퀀스 언패킹과 Starred Expression](python/packing_and_unpacking.md)
 - [NLTK Natural Language Toolkit, 자연어 처리](python/nltk.md)
-
-<br>
+- [python의 데코레이터들](python/decorators.md)
 
 <!-- - [python + 가상환경 + 다양한 라이브러리 + 협업 + 깃 조건에서 의존성 관리를 어떻게 해야할까?](python/how_to_manage_dependencies_under_python_venv_collaboration_git.md) -->
 <!-- - Endpoint를 효율적으로 관리하는 몇 가지 방법 -->

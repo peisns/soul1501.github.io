@@ -22,6 +22,9 @@
 - [iOS, macOS 등 버전 설정(Xcode)](swift/set-versions-in-xcode.md)
 
 
+<br>
+<br>
+<br>
 
 # Python
 
@@ -30,9 +33,11 @@
 - [Knowledge Repository of Python](#knowledge-repository-of-python)
 
 ## Knowledge Repository of Python
+
 - [Unpacking Sequence 시퀀스 언패킹과 Starred Expression](python/packing_and_unpacking.md)
 - [NLTK Natural Language Toolkit, 자연어 처리](python/nltk.md)
 - [python의 데코레이터들](python/decorators.md)
+- [python에서 에러 처리하기](python/handling_errors.md)
 
 <!-- - [python + 가상환경 + 다양한 라이브러리 + 협업 + 깃 조건에서 의존성 관리를 어떻게 해야할까?](python/how_to_manage_dependencies_under_python_venv_collaboration_git.md) -->
 <!-- - Endpoint를 효율적으로 관리하는 몇 가지 방법 -->

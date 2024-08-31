@@ -4,7 +4,6 @@
 
 - [Swift | Xcode](#swift--xcode)
 - [Python](#python)
-- [kaggle](#kaggle)
 - [etc](#etc)
 
 <br>
@@ -18,6 +17,7 @@
 
 
 ## Knowledge Repository of Swift
+
 - [for in 반복문과 고차함수(forEach, map, filter, reduce, compactMap)의 성능 비교](swift/performance_between_for_in_loop_and_high_order_function.md)
 - [iOS, macOS 등 버전 설정(Xcode)](swift/set-versions-in-xcode.md)
 
@@ -35,7 +35,6 @@
 ## Knowledge Repository of Python
 
 - [Unpacking Sequence 시퀀스 언패킹과 Starred Expression](python/packing_and_unpacking.md)
-- [NLTK Natural Language Toolkit, 자연어 처리](python/nltk.md)
 - [python의 데코레이터들](python/decorators.md)
 - [python에서 에러 처리하기](python/handling_errors.md)
 
@@ -46,11 +45,8 @@
 <!-- - Python의 에러핸들링 -->
 <!-- - python의 중첩, 콜백에서 벗어나기 -->
 
-<!-- # Swift -->
-
-# kaggle
-- [Predict Customer Purchase Behavior Dataset](kaggle/customerPurchaseBehavior/README.md)
-
+<br>
+<br>
 <br>
 
 # etc.
